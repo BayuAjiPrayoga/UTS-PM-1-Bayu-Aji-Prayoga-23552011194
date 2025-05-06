@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Glowpedia</string>
+    <string name="login_title">Log In</string>
+    <string name="register_title">Sign Up</string>
+    <string name="username_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">confirm password</string>
+    <string name="login_button">Log In</string>
+    <string name="register_button">Sign Up</string>
+    <string name="no_account">Dont have an account? Sign up</string>
+    <string name="have_account">Sudah punya akun? Masuk</string>
+</resources>
